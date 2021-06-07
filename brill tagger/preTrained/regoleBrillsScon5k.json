@@ -1,0 +1,452 @@
+﻿[
+    {
+        "need": [
+            "ente"
+        ],
+        "prec": "1",
+        "target": "11",
+        "corr": 33,
+        "tipo": 3
+    },
+    {
+        "need": [
+            "ii"
+        ],
+        "prec": "1",
+        "target": "0",
+        "corr": 15,
+        "tipo": 1
+    },
+    {
+        "need": [
+            "oma"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 12,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "lano"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 8,
+        "tipo": 3
+    },
+    {
+        "need": [
+            "ona"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 8,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "si"
+        ],
+        "prec": "1",
+        "target": "7",
+        "corr": 7,
+        "tipo": 5
+    },
+    {
+        "need": [
+            "ale"
+        ],
+        "prec": "1",
+        "target": "0",
+        "corr": 7,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "lo"
+        ],
+        "prec": "1",
+        "target": "7",
+        "corr": 6,
+        "tipo": 5
+    },
+    {
+        "need": [
+            "are"
+        ],
+        "prec": "1",
+        "target": "0",
+        "corr": 5,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "mico"
+        ],
+        "prec": "1",
+        "target": "0",
+        "corr": 5,
+        "tipo": 3
+    },
+    {
+        "need": [
+            "v'"
+        ],
+        "prec": "1",
+        "target": "11",
+        "corr": 5,
+        "tipo": 1
+    },
+    {
+        "need": [
+            "igi"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 5,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "esco"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 5,
+        "tipo": 3
+    },
+    {
+        "need": [
+            "himè"
+        ],
+        "prec": "1",
+        "target": "12",
+        "corr": 4,
+        "tipo": 3
+    },
+    {
+        "need": [
+            "ari"
+        ],
+        "prec": "1",
+        "target": "0",
+        "corr": 4,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "ha"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 4,
+        "tipo": 5
+    },
+    {
+        "need": [
+            "lio"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 4,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "ci"
+        ],
+        "prec": "1",
+        "target": "0",
+        "corr": 4,
+        "tipo": 1
+    },
+    {
+        "need": [
+            "an"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 4,
+        "tipo": 1
+    },
+    {
+        "need": [
+            "he"
+        ],
+        "prec": "1",
+        "target": "3",
+        "corr": 4,
+        "tipo": 1
+    },
+    {
+        "need": [
+            "uni"
+        ],
+        "prec": "1",
+        "target": "3",
+        "corr": 4,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "ele"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 4,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "doni"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 4,
+        "tipo": 3
+    },
+    {
+        "need": [
+            "ton"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 3,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "ate"
+        ],
+        "prec": "1",
+        "target": "0",
+        "corr": 3,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "rota"
+        ],
+        "prec": "1",
+        "target": "0",
+        "corr": 3,
+        "tipo": 3
+    },
+    {
+        "need": [
+            "hia"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 3,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "org"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 3,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "erto"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 3,
+        "tipo": 3
+    },
+    {
+        "need": [
+            "anni"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 3,
+        "tipo": 3
+    },
+    {
+        "need": [
+            "rin"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 3,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "tun"
+        ],
+        "prec": "1",
+        "target": "10",
+        "corr": 3,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "se"
+        ],
+        "prec": "1",
+        "target": "8",
+        "corr": 3,
+        "tipo": 4
+    },
+    {
+        "need": [
+            "lo"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 3,
+        "tipo": 1
+    },
+    {
+        "need": [
+            "ci"
+        ],
+        "prec": "1",
+        "target": "7",
+        "corr": 3,
+        "tipo": 5
+    },
+    {
+        "need": [
+            "che"
+        ],
+        "prec": "3",
+        "target": "0",
+        "corr": 3,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "ce"
+        ],
+        "prec": "1",
+        "target": "8",
+        "corr": 3,
+        "tipo": 4
+    },
+    {
+        "need": [
+            "isha"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 3,
+        "tipo": 3
+    },
+    {
+        "need": [
+            "mate"
+        ],
+        "prec": "0",
+        "target": "1",
+        "corr": 3,
+        "tipo": 3
+    },
+    {
+        "need": [
+            "iero"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 3,
+        "tipo": 3
+    },
+    {
+        "need": [
+            "eno"
+        ],
+        "prec": "1",
+        "target": "11",
+        "corr": 2,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "rar"
+        ],
+        "prec": "1",
+        "target": "7",
+        "corr": 2,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "mée"
+        ],
+        "prec": "1",
+        "target": "0",
+        "corr": 2,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "pressato"
+        ],
+        "prec": "1",
+        "target": "11",
+        "corr": 2,
+        "tipo": 4
+    },
+    {
+        "need": [
+            "oni"
+        ],
+        "prec": "7",
+        "target": "4",
+        "corr": 2,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "ssa"
+        ],
+        "prec": "7",
+        "target": "0",
+        "corr": 2,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "tie"
+        ],
+        "prec": "1",
+        "target": "4",
+        "corr": 2,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "tte"
+        ],
+        "prec": "1",
+        "target": "7",
+        "corr": 2,
+        "tipo": 2
+    },
+    {
+        "need": [
+            "mind"
+        ],
+        "prec": "1",
+        "target": "16",
+        "corr": 2,
+        "tipo": 4
+    },
+    {
+        "need": [
+            "tradizione"
+        ],
+        "prec": "1",
+        "target": "0",
+        "corr": 2,
+        "tipo": 4
+    }
+]
